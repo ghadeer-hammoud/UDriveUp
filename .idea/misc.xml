@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/drawable-v24/background_circle.xml" value="0.30078125" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/drawable-v24/background_light_gray.xml" value="0.30078125" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/drawable/background_corner_border.xml" value="0.30078125" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/font/open_sans_font.xml" value="0.321875" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/layout/activity_home.xml" value="0.2599118942731278" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/layout/row_list_category.xml" value="0.67" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/layout/row_list_product.xml" value="0.5" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/layout/row_list_story.xml" value="0.75" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/layout/row_list_sub_category.xml" value="0.5" />
+        <entry key="..\:/Users/Ghadeer/AndroidStudioProjects/UDriveUp/app/src/main/res/menu/main_menu.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

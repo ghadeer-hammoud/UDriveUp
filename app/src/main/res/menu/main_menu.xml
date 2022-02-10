@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_1"
+        android:title="title1"
+        android:icon="@drawable/ic_headset_mic_24"
+        app:showAsAction="always"
+        android:iconTint="@color/black"
+        />
+
+    <item
+        android:id="@+id/action_2"
+        android:title="title2"
+        android:icon="@drawable/ic_speed_24"
+        app:showAsAction="always"
+        android:iconTint="@color/black"
+        />
+
+    <item
+        android:id="@+id/action_3"
+        android:title="title3"
+        android:icon="@drawable/ic_qr_code_scanner_24"
+        app:showAsAction="always"
+        android:iconTint="@color/black"
+        />
+
+</menu>

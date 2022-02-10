@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UDriveUp</string>
+
+    <string name="old_price"> <strike> AED 600/-</strike></string>
+</resources>
